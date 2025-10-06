@@ -1,4 +1,4 @@
-# Bignited Email Signature
+# bignited Email Signature
 
 This repository contains an HTML file template for your professional email signature.
 
